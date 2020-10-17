@@ -1,0 +1,72 @@
+﻿<Root>
+  <TASK1>
+    <taskName>史莱姆剿灭战</taskName>
+    <caption>消灭史莱姆*15</caption>
+
+    <conditionID>史莱姆</conditionID>
+    <conditionTargetAmount>15</conditionTargetAmount>
+
+    <rewardID>当场去世</rewardID>
+    <rewardAmount>0</rewardAmount>
+  </TASK1>
+
+  <TASK2>
+    <taskName>红史莱姆剿灭战</taskName>
+    <caption>消灭红史莱姆*4</caption>
+
+    <conditionID>红史莱姆</conditionID>
+    <conditionTargetAmount>4</conditionTargetAmount>
+
+    <rewardID>攻击点数</rewardID>
+    <rewardAmount>30</rewardAmount>
+  </TASK2>
+
+  <TASK3>
+    <taskName>紫史莱姆剿灭战</taskName>
+    <caption>消灭紫史莱姆*5</caption>
+
+    <conditionID>紫史莱姆</conditionID>
+    <conditionTargetAmount>5</conditionTargetAmount>
+
+    <rewardID>攻击点数</rewardID>
+    <rewardAmount>10</rewardAmount>
+  </TASK3>
+
+  <TASK4>
+    <taskName>黄/蓝史莱姆剿灭战</taskName>
+    <caption>消灭黄史莱姆*3 消灭蓝史莱姆*2</caption>
+
+    <conditionID>黄史莱姆</conditionID>
+    <conditionTargetAmount>3</conditionTargetAmount>
+    <conditionID>蓝史莱姆</conditionID>
+    <conditionTargetAmount>2</conditionTargetAmount>
+
+    <rewardID>攻击点数</rewardID>
+    <rewardAmount>100</rewardAmount>
+    <rewardID>生命点数</rewardID>
+    <rewardAmount>100</rewardAmount>
+    
+  </TASK4>
+
+  <TASK5>
+    <taskName>骷髅兵剿灭战</taskName>
+    <caption>消灭骷髅兵*5</caption>
+
+    <conditionID>骷髅兵</conditionID>
+    <conditionTargetAmount>5</conditionTargetAmount>
+
+    <rewardID>攻击点数</rewardID>
+    <rewardAmount>10</rewardAmount>
+  </TASK5>
+
+  <TASK6>
+    <taskName>蓝史莱姆剿灭战</taskName>
+    <caption>消灭蓝史莱姆*2</caption>
+
+    <conditionID>蓝史莱姆</conditionID>
+    <conditionTargetAmount>2</conditionTargetAmount>
+
+    <rewardID>速度点数</rewardID>
+    <rewardAmount>1</rewardAmount>
+  </TASK6>
+</Root>
